@@ -1,0 +1,108 @@
+[[ipx]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1252bd66f25621ea023af00296790b54793b41bd"
+libc = "glibc"
+os = "linux"
+
+    [[ipx.download]]
+    sha256 = "ccc03bc8d3e40447c472acbe05958d80db2e88a4a716aaa6299f4b8ef268d5d4"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[ipx]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1fc8c2329c8f658506d7c017d118dca9d04f287b"
+libc = "glibc"
+os = "linux"
+
+    [[ipx.download]]
+    sha256 = "6a41fa056015b2c59cc00c2517ff5bd212314cd81faeab099d5b66dbf4a1250f"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[ipx]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0bccb7440526195773016c1e7d1ef1f3b9e2d3aa"
+libc = "musl"
+os = "linux"
+
+    [[ipx.download]]
+    sha256 = "c9194544ea0bf3c5d743b1c2006fb435122b290d9f9793d7d4e8fbdb368f2f09"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[ipx]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "028b573dbe7186f64074a4412629af6d1e417db6"
+libc = "musl"
+os = "linux"
+
+    [[ipx.download]]
+    sha256 = "7bdfae4dd0277e44b5f635d8a615a95d3be7829f0aa9f0e6dcf80b471cd4b971"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[ipx]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "35185e778a5c78e40e1557a7be794180f507020a"
+libc = "glibc"
+os = "linux"
+
+    [[ipx.download]]
+    sha256 = "6ca83c4991ac34bb490a623a765484182183992d19778eb7f35a641d938a5217"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ipx]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "feace8c34383c2fe3f66c64c9b3087661de57030"
+libc = "glibc"
+os = "linux"
+
+    [[ipx.download]]
+    sha256 = "7f73e62a25aabc08f8ded861d65615e7a62903add9090715c4c96e843b1805db"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ipx]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e49dbe4e764e32c46dc21f0e50172f084e1ffba2"
+libc = "glibc"
+os = "linux"
+
+    [[ipx.download]]
+    sha256 = "19d95ccb15610d76a8bc12d8a86d7b5d5711d38960cdeb3c97f003337ed56441"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[ipx]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6cf97c4f549ab8bcfd01a7821c34e833d14365ab"
+libc = "glibc"
+os = "linux"
+
+    [[ipx.download]]
+    sha256 = "0c6623fdc1e20bf3049fcca07ba79fbd8f39f65381724d06e5076f53b220a91c"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[ipx]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "14ca84f00d0b3c7fcdcd88fdae60988d31407e3d"
+libc = "musl"
+os = "linux"
+
+    [[ipx.download]]
+    sha256 = "bdf6ad373fb4d016d49a398cdf1dc318cc4ffe658188006e102018cdcd57cd72"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[ipx]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e20e9fb1bd09cd3189bfd01a945492e8c947b793"
+libc = "musl"
+os = "linux"
+
+    [[ipx.download]]
+    sha256 = "0f594eb03d13b5d59471d26161a4dc53f112c48d2e489d7f94e084d5844b9277"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[ipx]]
+arch = "x86_64"
+git-tree-sha1 = "e22026a8cdf8cb254c5e95a588f4face28d2024b"
+os = "freebsd"
+
+    [[ipx.download]]
+    sha256 = "85803d3952523711c05e2abb1503e0e1c523ceb891dba1825dfa863c46da8520"
+    url = "https://github.com/JuliaBinaryWrappers/ipx_jll.jl/releases/download/ipx-v1.0.0+0/ipx.v1.0.0.x86_64-unknown-freebsd.tar.gz"
